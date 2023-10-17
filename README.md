@@ -11,4 +11,4 @@ For more info on D3:
 • https://www.w3schools.com/js/tryit.asp?filename=tryai_d3js_scatterplot
 
 The web pages will pruduce something like this:
-[relations.pdf](https://github.com/rickarddahlvolvocars/VolvoCars-SwiftPackage-module-dependency-analyzer/files/12926256/relations.pdf)
+![x](https://github.com/rickarddahlvolvocars/VolvoCars-SwiftPackage-module-dependency-analyzer/assets/102733807/e27d6753-63ee-4a67-babf-d73eed998679)
